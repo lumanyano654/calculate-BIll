@@ -35,7 +35,7 @@ function phoneBillColor(roundedTotal){
 
  
  if (theTotal >= 20 && theTotal < 30){
-      billTotalSpanElement.classList.add(" warning");
+      billTotalSpanElement.classList.add("warning");
  }
 
   if (theTotal >= 30){
